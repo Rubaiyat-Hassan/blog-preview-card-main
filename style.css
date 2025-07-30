@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+/*
+ global
+ */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: "Figtree",sans-serif,Georgia, 'Times New Roman', Times, serif;
+}
+
+/* 
+styles 
+*/
+
+body{
+    background:  hsl(47, 88%, 63%);
+}
+
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+
+}
+/* content  */
+main .content{
+    position: relative;
+    height: 485px;
+    max-width: 344px;
+    width: 24vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* card  */
+
+main .card {
+    height: 485px;
+    max-width: 344px;
+    width: 24vw;
+    border-radius: 20px;
+    background: hsl(0, 0%, 100%);
+    border: 1px solid hsl(0, 0%, 7%);
+    position: relative;
+    z-index: 1;
+}
+
+/* Shadow  */
+main .bgshadow {
+    height: 485px;
+    max-width: 344px;
+    width: 24vw;
+    border-radius: 20px;
+    background: hsl(0, 0%, 7%);
+    position: absolute;
+    z-index: -1;
+    bottom: -8px;
+    left: 8px;
+}
+
+/* image  */
+main .card .image{
+    height:47%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+main .card .image .illustration-article{
+    height:82%;
+    width: 89%;
+    border-radius: 20px;
+    
+}
+
+/* Learning  */
+main .card .learning{
+    padding: 5px 15px;
+    background: hsl(47, 88%, 63%);
+    color:hsl(0, 0%, 7%) ;
+    font-weight:800;
+    display:inline-block;
+    margin-left: 23px;
+    border-radius: 5px;
+}
+
+/* publish  */
+main .card .publish{
+    margin-top: 12px;
+    margin-left: 23px;
+    color:hsl(0, 0%, 7%) ;
+}
+
+/* Heading  */
+
+main .card .heading{
+    margin-top: 12px;
+    margin-left: 23px;
+    color:hsl(0, 0%, 7%) ;
+    cursor: pointer;
+}
+main .card .heading:hover{
+    color: hsl(47, 88%, 63%); ;
+}
+main .card .heading h1{
+    font-size: 24px;
+}
+
+/* Description  */
+main .card .description{
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-left: 23px;
+    color:hsl(0, 0%, 42%) ;
+}
+main .card .description p{
+    line-height: 25px;
+}
+
+
+/* Avatar */
+main .card .avatar{
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 23px;
+    color:hsl(0, 0%, 7%) ;
+    font-weight: 800;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+main .card .avatar img{
+    height: 33px;
+}

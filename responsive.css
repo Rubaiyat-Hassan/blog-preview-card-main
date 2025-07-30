@@ -1,0 +1,154 @@
+@media screen and (max-width: 1350px) {
+    main .content{
+    width: 30vw;
+}
+  main .card {
+    width: 30vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 30vw;
+  }
+}
+@media screen and (max-width: 1080px) {
+    main .content{
+    width: 35vw;
+    height: 475px;
+}
+  main .card {
+    width: 35vw;
+    height: 475px;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 35vw;
+    height: 475px;
+  }
+  main .card .heading h1{
+    font-size: 22px;
+
+}
+}
+@media screen and (max-width: 860px) {
+    *{
+        font-size: 15px;
+    }
+    main .content{
+    width: 40vw;
+}
+  main .card {
+    width: 40vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 40vw;
+  }
+}
+@media screen and (max-width: 750px) {
+    main .content{
+    width: 45vw;
+}
+  main .card {
+    width: 45vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 45vw;
+  }
+}
+@media screen and (max-width: 674px) {
+    main .content{
+    width: 50vw;
+}
+  main .card {
+    width: 50vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 50vw;
+  }
+}
+@media screen and (max-width: 600px) {
+    main .content{
+    width: 55vw;
+}
+  main .card {
+    width: 55vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 55vw;
+  }
+  main .card .heading h1{
+    font-size: 20px;
+
+}
+}
+@media screen and (max-width: 510px) {
+    main .content{
+    width: 60vw;
+}
+  main .card {
+    width: 60vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 60vw;
+  }
+  main .card .heading h1{
+    font-size: 18px;
+
+}
+}
+@media screen and (max-width: 510px) {
+    main .content{
+    width: 65vw;
+}
+  main .card {
+    width: 65vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 65vw;
+  }
+  
+}
+@media screen and (max-width: 435px) {
+    main .content{
+    width: 70vw;
+}
+  main .card {
+    width: 70vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 70vw;
+  }
+
+}
+
+@media screen and (max-width: 398px) {
+    *{
+        font-size: 14px;
+    }
+    main .content{
+    width: 75vw;
+}
+  main .card {
+    width: 75vw;
+  }
+
+  /* Shadow  */
+  main .bgshadow {
+    width: 75vw;
+  }
+}
