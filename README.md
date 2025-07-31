@@ -41,43 +41,31 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS responsive design with media queries
 - Flexbox
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+- Writing clean and semantic HTML structure
+- Creating responsive designs using media queries
+- Managing layout with Flexbox and ensuring visual balance
+- Implementing hover and focus states for better user experience
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I would like to explore:
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- Improving accessibility by using aria labels and semantic roles
+- Transitioning to CSS Grid for more complex layouts
+- Adding dark mode toggle using JavaScript
+- Using design tokens or a utility-first CSS framework like Tailwind CSS
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [MDN Web Docs](https://developer.mozilla.org/) - For general HTML/CSS reference.
+- [Frontend Mentor community](https://www.frontendmentor.io/) - Great help on common design patterns.
 
 ## Author
 
@@ -88,6 +76,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Big thanks to:
+- [Frontend Mentor](https://www.frontendmentor.io/) for providing the challenge
+- [MDN Web Docs](https://developer.mozilla.org/) for references during development
+- The open-source community for helpful tips and resources
