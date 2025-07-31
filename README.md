@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Rubaiyat-Hassan/blog-preview-card-main.git)
-- Live Site URL: [Live site](https://rubaiyat-hassan.github.io/blog-preview-card-main/)
+- Solution URL: [https://github.com/Rubaiyat-Hassan/blog-preview-card-main.git](https://github.com/Rubaiyat-Hassan/blog-preview-card-main.git)
+- Live Site URL: [https://rubaiyat-hassan.github.io/blog-preview-card-main/](https://rubaiyat-hassan.github.io/blog-preview-card-main/)
 
 ## My process
 
