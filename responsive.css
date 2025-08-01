@@ -36,19 +36,6 @@
         font-size: 15px;
     }
     main .content{
-    width: 43vw;
-}
-  main .card {
-    width: 43vw;
-  }
-
-  /* Shadow  */
-  main .bgshadow {
-    width: 43vw;
-  }
-}
-@media screen and (max-width: 750px) {
-    main .content{
     width: 45vw;
 }
   main .card {
@@ -123,15 +110,15 @@
 }
 @media screen and (max-width: 440px) {
     main .content{
-    width: 75vw;
+    width: 80vw;
 }
   main .card {
-    width: 75vw;
+    width: 80vw;
   }
 
   /* Shadow  */
   main .bgshadow {
-    width: 75vw;
+    width: 80vw;
   }
 
 }
@@ -140,19 +127,8 @@
     *{
         font-size: 14px;
     }
-    main .content{
-    width: 80vw;
 }
-  main .card {
-    width: 80vw;
-  }
-
-  /* Shadow  */
-  main .bgshadow {
-    width: 80vw;
-  }
-}
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 330px) {
     *{
         font-size: 14px;
     }
