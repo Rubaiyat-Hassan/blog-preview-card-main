@@ -1,156 +1,108 @@
 @media screen and (max-width: 1350px) {
-  main .content {
-    width: 30vw;
-  }
-  main .card {
-    width: 30vw;
-  }
-
-  /* Shadow  */
-  main .bgshadow {
+  .content,
+  .card,
+  .bgshadow {
     width: 30vw;
   }
 }
+
 @media screen and (max-width: 1080px) {
-  main .content {
+  .content,
+  .card,
+  .bgshadow {
     width: 35vw;
-    height: 475px;
-  }
-  main .card {
-    width: 35vw;
-    height: 475px;
+    height: 29.7em; /* 475px ÷ 16 */
   }
 
-  /* Shadow  */
-  main .bgshadow {
-    width: 35vw;
-    height: 475px;
-  }
-  main .card .heading h1 {
-    font-size: 22px;
+  .card .heading h1 {
+    font-size: 1.375em; /* 22px ÷ 16 */
   }
 }
+
 @media screen and (max-width: 870px) {
   * {
-    font-size: 15px;
-  }
-  main .content {
-    width: 45vw;
-  }
-  main .card {
-    width: 45vw;
+    font-size: 0.9375em; /* 15px ÷ 16 */
   }
 
-  /* Shadow  */
-  main .bgshadow {
+  .content,
+  .card,
+  .bgshadow {
     width: 45vw;
   }
 }
+
 @media screen and (max-width: 674px) {
-  main .content {
-    width: 50vw;
-  }
-  main .card {
-    width: 50vw;
-  }
-
-  /* Shadow  */
-  main .bgshadow {
+  .content,
+  .card,
+  .bgshadow {
     width: 50vw;
   }
 }
+
 @media screen and (max-width: 600px) {
-  main .content {
-    width: 55vw;
-  }
-  main .card {
+  .content,
+  .card,
+  .bgshadow {
     width: 55vw;
   }
 
-  /* Shadow  */
-  main .bgshadow {
-    width: 55vw;
-  }
-  main .card .heading h1 {
-    font-size: 20px;
+  .card .heading h1 {
+    font-size: 1.25em; /* 20px ÷ 16 */
   }
 }
+
 @media screen and (max-width: 530px) {
-  main .content {
-    width: 63vw;
-  }
-  main .card {
+  .content,
+  .card,
+  .bgshadow {
     width: 63vw;
   }
 
-  /* Shadow  */
-  main .bgshadow {
-    width: 63vw;
-  }
-  main .card .heading h1 {
-    font-size: 18px;
+  .card .heading h1 {
+    font-size: 1.125em; /* 18px ÷ 16 */
   }
 }
+
 @media screen and (max-width: 520px) {
-  main .content {
-    width: 65vw;
-  }
-  main .card {
-    width: 65vw;
-  }
-
-  /* Shadow  */
-  main .bgshadow {
+  .content,
+  .card,
+  .bgshadow {
     width: 65vw;
   }
 }
+
 @media screen and (max-width: 440px) {
-  main .content {
-    width: 80vw;
-  }
-  main .card {
-    width: 80vw;
-  }
-
-  /* Shadow  */
-  main .bgshadow {
+  .content,
+  .card,
+  .bgshadow {
     width: 80vw;
   }
 }
-
 
 @media screen and (max-width: 370px) {
   * {
-    font-size: 14px;
-  }
-  main .content {
-    width: 90vw;
-    height: 490px;
-  }
-  main .card {
-    width: 90vw;
-    height: 490px;
+    font-size: 0.875em; /* 14px ÷ 16 */
   }
 
-  /* Shadow  */
-  main .bgshadow {
+  .content,
+  .card,
+  .bgshadow {
     width: 90vw;
-    height: 490px;
+    height: 30.625em; /* 490px ÷ 16 */
   }
 }
+
 @media screen and (max-width: 330px) {
   * {
-    font-size: 13px;
-  }
-  main .content {
-    width: 93vw;
-  }
-  main .card {
-    width: 90vw;
+    font-size: 0.8125em; /* 13px ÷ 16 */
   }
 
-  /* Shadow  */
-  main .bgshadow {
+  .content {
+    width: 93vw;
+  }
+
+  .card,
+  .bgshadow {
     width: 90vw;
   }
 }
