@@ -11,7 +11,7 @@
   .card,
   .bgshadow {
     width: 35vw;
-    height: 29.7em; /* 475px ÷ 16 */
+    height: 27; /* 475px ÷ 16 */
   }
 
   .card .heading h1 {
@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 870px) {
   * {
-    font-size: 0.9375em; /* 15px ÷ 16 */
+    font-size: 1em; /* 15px ÷ 16 */
   }
 
   .content,
@@ -43,7 +43,7 @@
   .content,
   .card,
   .bgshadow {
-    width: 55vw;
+    width: 60vw;
   }
 
   .card .heading h1 {
@@ -67,7 +67,7 @@
   .content,
   .card,
   .bgshadow {
-    width: 65vw;
+    width: 70vw;
   }
 }
 
@@ -75,34 +75,32 @@
   .content,
   .card,
   .bgshadow {
-    width: 80vw;
+    width: 85vw;
   }
 }
 
 @media screen and (max-width: 370px) {
   * {
-    font-size: 0.875em; /* 14px ÷ 16 */
+    font-size: 0.99em; /* 14px ÷ 16 */
   }
 
   .content,
   .card,
   .bgshadow {
     width: 90vw;
-    height: 30.625em; /* 490px ÷ 16 */
+    height: 32em; /* 490px ÷ 16 */
   }
 }
 
 @media screen and (max-width: 330px) {
   * {
-    font-size: 0.8125em; /* 13px ÷ 16 */
+    font-size: 0.9995em; /* 13px ÷ 16 */
   }
 
-  .content {
-    width: 93vw;
-  }
-
+  .content,
   .card,
   .bgshadow {
-    width: 90vw;
+    width: 93vw;
+    height:32em;
   }
 }
