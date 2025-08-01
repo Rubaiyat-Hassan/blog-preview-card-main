@@ -28,7 +28,7 @@ main{
 
 }
 /* content  */
-main .content{
+.content{
     position: relative;
     height: 485px;
     max-width: 344px;
@@ -40,7 +40,7 @@ main .content{
 }
 /* card  */
 
-main .card {
+.card {
     height: 485px;
     max-width: 344px;
     width: 24vw;
@@ -52,7 +52,7 @@ main .card {
 }
 
 /* Shadow  */
-main .bgshadow {
+.bgshadow {
     height: 485px;
     max-width: 344px;
     width: 24vw;
@@ -65,7 +65,7 @@ main .bgshadow {
 }
 
 /* image  */
-main .card .image{
+.image{
     height:47%;
     width: 100%;
     display: flex;
@@ -73,7 +73,7 @@ main .card .image{
     align-items: center;
 
 }
-main .card .image .illustration-article{
+.illustration-article{
     height:82%;
     width: 89%;
     border-radius: 20px;
@@ -81,7 +81,7 @@ main .card .image .illustration-article{
 }
 
 /* Learning  */
-main .card .learning{
+ .learning{
     padding: 5px 15px;
     background: hsl(47, 88%, 63%);
     color:hsl(0, 0%, 7%) ;
@@ -92,7 +92,7 @@ main .card .learning{
 }
 
 /* publish  */
-main .card .publish{
+ .publish{
     margin-top: 12px;
     margin-left: 23px;
     color:hsl(0, 0%, 7%) ;
@@ -100,33 +100,33 @@ main .card .publish{
 
 /* Heading  */
 
-main .card .heading{
+.heading{
     margin-top: 12px;
     margin-left: 23px;
     color:hsl(0, 0%, 7%) ;
     cursor: pointer;
 }
-main .card .heading:hover{
+.heading:hover{
     color: hsl(47, 88%, 63%); ;
 }
-main .card .heading h1{
+.heading h1{
     font-size: 24px;
 }
 
 /* Description  */
-main .card .description{
+.description{
     margin-right: 20px;
     margin-top: 15px;
     margin-left: 23px;
     color:hsl(0, 0%, 42%) ;
 }
-main .card .description p{
+.description p{
     line-height: 25px;
 }
 
 
 /* Avatar */
-main .card .avatar{
+.avatar{
     margin-right: 20px;
     margin-top: 20px;
     margin-left: 23px;
@@ -137,6 +137,6 @@ main .card .avatar{
     align-items: center;
     gap: 10px;
 }
-main .card .avatar img{
+.avatar img{
     height: 33px;
 }
