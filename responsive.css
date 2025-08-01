@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 870px) {
   * {
-    font-size: 1em; /* 15px ÷ 16 */
+    font-size: 0.99em; /* 15px ÷ 16 */
   }
 
   .content,
@@ -81,7 +81,7 @@
 
 @media screen and (max-width: 370px) {
   * {
-    font-size: 0.99em; /* 14px ÷ 16 */
+    font-size: 0.98em; /* 14px ÷ 16 */
   }
 
   .content,
@@ -94,7 +94,7 @@
 
 @media screen and (max-width: 330px) {
   * {
-    font-size: 0.9995em; /* 13px ÷ 16 */
+    font-size: 0.975em; /* 13px ÷ 16 */
   }
 
   .content,
