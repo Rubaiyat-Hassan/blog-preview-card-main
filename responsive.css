@@ -11,7 +11,7 @@
   .card,
   .bgshadow {
     width: 35vw;
-    height: 29.5em; /* 475px ÷ 16 */
+    height: 30em; /* 475px ÷ 16 */
   }
 
   .card .heading h1 {
@@ -39,7 +39,7 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 610px) {
   .content,
   .card,
   .bgshadow {
