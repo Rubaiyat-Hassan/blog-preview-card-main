@@ -144,16 +144,13 @@
   }
   main .content {
     width: 93vw;
-    height: 495px;
   }
   main .card {
     width: 90vw;
-    height: 495px;
   }
 
   /* Shadow  */
   main .bgshadow {
     width: 90vw;
-    height: 495px;
   }
 }
