@@ -11,7 +11,7 @@
   .card,
   .bgshadow {
     width: 35vw;
-    height: 27; /* 475px ÷ 16 */
+    height: 27em; /* 475px ÷ 16 */
   }
 
   .card .heading h1 {
